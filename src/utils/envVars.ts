@@ -2,7 +2,7 @@
 export const PORTIS_DAPP_ID: string =
   process.env.REACT_APP_PORTIS_DAPP_ID || '';
 export const INFURA_PROJECT_ID: string =
-  process.env.REACT_APP_INFURA_PROJECT_ID || '';
+  process.env.REACT_APP_INFURA_PROJECT_ID || '97359691e9d349c69a76a2d9b304b2d5';
 
 // non-private
 export const WEB3_POLLING_INTERVAL = 12000;
